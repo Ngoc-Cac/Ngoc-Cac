@@ -1,6 +1,5 @@
-- Official account of Trinh Ngoc Cac
+# Official Account of Trịnh Ngọc Các
 
-<!---
-Ngoc-Cac/Ngoc-Cac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Ngọc Các. I'm currently a Data Science undergrad.\
+I take interest in fields like **Computer Vision** (mainly with object detection and motion estimation) and **Computer Audition** (audio analysis, intrusment recognition and especially music generation).\
+Although unskilled at mathematics, I also enjoy recreational maths. I sometimes do projects on fractals, cellular automata or build search algorithms to solve puzzles.
