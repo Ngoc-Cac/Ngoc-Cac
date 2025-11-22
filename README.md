@@ -1,15 +1,13 @@
 # Official Account of Trịnh Ngọc Các
 
-Hi, I'm Ngọc Các. I am a Data Science graduate at the University of Economics Ho Chi Minh City (UEH). I am also currently working as a Researcher at AAI Labs, a Lithuanian AI solutions company.
+Hi, I'm Ngọc Các. I am a Data Science graduate at the University of Economics Ho Chi Minh City (UEH), and a Researcher at AAI Labs, a Lithuanian AI solutions company.
 
 My focus is on the research of AI applications for practical usages. AI research for me isn't about producing smarter machines.\
 I find that, through the attempt of replicating human tasks, we can discover more about ourselves, about how we interpret and comprehend data.
 
-I mainly take interest in fields like [**Computer Vision**](https://en.wikipedia.org/wiki/Computer_vision)
-(mainly with object detection and motion estimation) and
-[**Computer Audition**](https://en.wikipedia.org/wiki/Computer_audition)
-(audio analysis and music information retrieval). However, my experience in these fields is limited, so I am always looking
-for opportunities to join relevant projects.\
+I mainly take interest in fields like [**Computer Vision**](https://en.wikipedia.org/wiki/Computer_vision) (object detection and motion estimation) and
+[**Computer Audition**](https://en.wikipedia.org/wiki/Computer_audition) (audio analysis and music information retrieval).
+However, my experience in these fields is limited, so I am always looking for opportunities to join relevant projects.\
 Please check out my pinned repositories for some of my past/present projects.
 
 Although unskilled at mathematics, I also enjoy recreational maths. I sometimes do projects on fractals,
