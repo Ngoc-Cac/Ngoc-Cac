@@ -2,8 +2,8 @@
 
 Hi, I'm Ngọc Các. I am a Data Science graduate at the University of Economics Ho Chi Minh City (UEH), and a Researcher at AAI Labs, a Lithuanian AI solutions company.
 
-My focus is on the research of AI applications for practical usages. AI research for me isn't about producing smarter machines.\
-I find that, through the attempt of replicating human tasks, we can discover more about ourselves, about how we interpret and comprehend data.
+My focus is on research of practical AI applications. For me, AI research isn't about producing intelligent machines,
+but about uncovering how we interpret and act upon raw information in everyday life.
 
 I mainly take interest in fields like [**Computer Vision**](https://en.wikipedia.org/wiki/Computer_vision) (object detection and motion estimation) and
 [**Computer Audition**](https://en.wikipedia.org/wiki/Computer_audition) (audio analysis and music information retrieval).
