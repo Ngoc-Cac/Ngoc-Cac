@@ -24,7 +24,7 @@ Please check out my pinned repositories for some of my past/present projects.
         </li>
         <li>
             <a href="https://github.com/Ngoc-Cac/Wave-Function-Collapse">Wave Function Collapse</a>: This is better known as
-            **Model synthesis**, which is used for procedural generation. The algorithm solves a constraint satisfaction problem
+            <b>Model synthesis</b>, which is used for procedural generation. The algorithm solves a constraint satisfaction problem
             modeled after the concept of superposition in quantum mechanics. The algorithm is famous for its application in terrain
             generation for video games.
         </li>
