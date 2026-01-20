@@ -39,4 +39,4 @@ Please check out my pinned repositories for some of my past/present projects.
 
 :computer:Languages: Python, Lua, Bash
 
-I use Neovim, btw.
+Neovim, btw.
