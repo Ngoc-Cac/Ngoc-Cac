@@ -1,4 +1,4 @@
-# Official Account of Trịnh Ngọc Các
+<h1 align="center">Official Account of Trịnh Ngọc Các</h1>
 
 Hi, I'm Ngọc Các.\
 I am a Data Science graduate at the University of Economics Ho Chi Minh City (UEH),
@@ -10,7 +10,8 @@ intelligent machines, but about uncovering how we interpret and act upon raw inf
 I take interest in fields like [**Computer Vision**](https://en.wikipedia.org/wiki/Computer_vision)
 (object detection and motion estimation) and [**Computer Audition**](https://en.wikipedia.org/wiki/Computer_audition)
 (audio analysis and music information retrieval). However, my experience in these fields is limited, so I
-am always looking for opportunities to join relevant projects.\
+am always looking for opportunities to join relevant projects.
+
 Please check out my pinned repositories for some of my past/present projects.
 
 <details>
@@ -42,6 +43,14 @@ Please check out my pinned repositories for some of my past/present projects.
 
 ---
 
-:computer:Languages: Python, Lua, Bash
+<h2 align="center">&#128187; My Tech Stack</h2>
 
-Neovim, btw.
+Languages: Python, Lua, Bash, very basic C#
+
+Main Libaries: [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/),
+[Scikit-learn](https://scikit-learn.org/stable/), [OpenCV](https://opencv.org/)
+
+Main Frameworks: [PyTorch](https://pytorch.org/), [`pytest`](https://docs.pytest.org/en/stable/),
+[Ultralytics YOLO](https://docs.ultralytics.com/)
+
+I use Neovim, btw.
