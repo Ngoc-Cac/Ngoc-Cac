@@ -4,13 +4,7 @@ Hi, I'm Ngọc Các.\
 I am a Data Science graduate at the University of Economics Ho Chi Minh City (UEH),
 and a Researcher at [AAI Labs](https://www.aai-labs.com/en/home) - a Lithuanian tech solutions company.
 
-My focus is the on research of practical AI applications. For me, AI research isn't just about producing
-intelligent machines, but about uncovering how we interpret and act upon raw information in everyday life.
-
-I take interest in fields like [**Computer Vision**](https://en.wikipedia.org/wiki/Computer_vision)
-(object detection and motion estimation) and [**Computer Audition**](https://en.wikipedia.org/wiki/Computer_audition)
-(audio analysis and music information retrieval). However, my experience in these fields is limited, so I
-am always looking for opportunities to join relevant projects.
+Check out my [GitHub page](https://ngoc-cac.github.io).
 
 Please check out my pinned repositories for some of my past/present projects.
 
