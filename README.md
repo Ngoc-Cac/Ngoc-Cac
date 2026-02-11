@@ -41,10 +41,4 @@ Please check out my pinned repositories for some of my past/present projects.
 
 Languages: Python, Lua, Bash, very basic C#
 
-Main Libaries: [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/),
-[Scikit-learn](https://scikit-learn.org/stable/), [OpenCV](https://opencv.org/)
-
-Main Frameworks: [PyTorch](https://pytorch.org/), [`pytest`](https://docs.pytest.org/en/stable/),
-[Ultralytics YOLO](https://docs.ultralytics.com/)
-
 I use Neovim, btw.
