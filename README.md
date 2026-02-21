@@ -39,6 +39,8 @@ Please check out my pinned repositories for some of my past/present projects.
 
 <h2 align="center">&#128187; My Tech Stack</h2>
 
-Languages: Python, Lua, Bash, very basic C#
+Languages: Python, Lua, LaTeX, very basic C#
+
+Tools: Bash, Git, Jupyter Notebook
 
 I use Neovim, btw.
