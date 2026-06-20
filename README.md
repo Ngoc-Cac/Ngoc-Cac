@@ -43,4 +43,4 @@ Languages: Python, Lua, LaTeX, very basic C#
 
 Tools: Bash, Git, Jupyter Notebook
 
-I use Neovim, btw.
+I use Arch, btw.
