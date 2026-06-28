@@ -4,8 +4,6 @@ Hi, I'm Ngọc Các.\
 I am a Data Science graduate at the University of Economics Ho Chi Minh City (UEH),
 and a Researcher at [AAI Labs](https://www.aai-labs.com/en/home) - a Lithuanian tech solutions company.
 
-Check out my [GitHub page](https://ngoc-cac.github.io).
-
 Please check out my pinned repositories for some of my past/present projects.
 
 <details>
